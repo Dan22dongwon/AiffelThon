@@ -19,4 +19,8 @@ loss: 1.1742 - accuracy: 0.4280 - val_loss: 1.1717 - val_accuracy: 0.4336
 
 loss: 0.9364 - accuracy: 0.4909 - val_loss: 0.9339 - val_accuracy: 0.4942
 
+
+Test V04
+Image classification as EfficentNet B5
+
 -Dongwon Park-
